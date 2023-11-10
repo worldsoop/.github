@@ -2,7 +2,7 @@
 
 Welcome! This is the public page for the [WorldsOOp ecosystem](https://github.com/orgs/worldsoop/). Our goal here is to create more realistic environments for machine learning systems to train on and test themselves against.
 
-_State observation is a first-class citizen._
+_State observation is not easy._
 
 These challenging environments have been designed reflect the difficulties with handling more realistic datasets, as well as the partial state observability that is nearly always the case when working on problems in the real world.
 

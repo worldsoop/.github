@@ -1,6 +1,6 @@
 ## Building more realistic environments for machine learning systems
 
-Welcome to the [WorldsOOp software ecosystem](https://github.com/orgs/worldsoop/)!. Our goal here is to create more realistic environments for machine learning systems to train on and test themselves against.
+Welcome to the [WorldsOOp software ecosystem](https://github.com/orgs/worldsoop/)! Our goal here is to create more realistic environments for machine learning systems to train on and test themselves against.
 
 _State observation is not easy._
 

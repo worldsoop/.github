@@ -14,7 +14,7 @@ Access to real data for the systems that matter is often restricted. We want to 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=trywizard)](https://github.com/worldsoop/trywizard)
 
-![](assets/pitch-background.png)
+![](./assets/pitch-background.png)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=paraspace)](https://github.com/worldsoop/paraspace)
 

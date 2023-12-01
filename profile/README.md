@@ -4,7 +4,7 @@ Welcome to the [WorldsOOp software ecosystem](https://github.com/orgs/worldsoop/
 
 _State observation is not easy._
 
-These challenging environments have been designed reflect the difficulties with handling more realistic datasets, as well as the partial state observability that is nearly always the case when working on problems in the real world.
+These challenging environments have been designed to reflect the difficulties with handling more realistic datasets, as well as the partial state observability that is nearly always the case when working on problems in the real world.
 
 _Gamified realism for machine learning._
 

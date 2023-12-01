@@ -10,6 +10,10 @@ _Gamified realism for machine learning._
 
 Access to real data for the systems that matter is often restricted. We want to circumvent this barrier to generalisation research into practical ML systems by generating it from environments instead. Nothing replaces a real dataset; but we can always try to emulate how messy it gets while still knowing the ground truth!
 
+## Python API
+
+The [WorldsOOp Python API](https://github.com/worldsoop/worldsoop) can be used to build and train decision-making algorithms in realistic simulation environments.
+
 ## Environments
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=trywizard)](https://github.com/worldsoop/trywizard)

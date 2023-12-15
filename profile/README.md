@@ -1,6 +1,6 @@
 ## Building more realistic environments for machine learning systems
 
-Welcome to the **WorldsOOp software ecosystem**! Our goal here is to create more realistic environments for machine learning systems to train on and test themselves against.
+Welcome to the **WorldsOOp software ecosystem**! Our goal here is to create more realistic environments for machine learning systems to train on and test themselves against. The core motivations for, and design ideas behind, this software stack originate from this open source book: [Worlds Of Observation](https://umbralcalc.github.io/worlds-of-observation/).
 
 _State observation is not easy._
 
@@ -17,6 +17,8 @@ The **WorldsOOp Python API** can be used to build and train decision-making algo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=worldsoop)](https://github.com/worldsoop/worldsoop)
 
 ## Environments
+
+We are working on a range of enviroments to train algorithms on.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=trywizard)](https://github.com/worldsoop/trywizard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=paraspace)](https://github.com/worldsoop/paraspace)

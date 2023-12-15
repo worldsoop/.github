@@ -14,6 +14,8 @@ Access to real data for the systems that matter is often restricted. We want to 
 
 The [WorldsOOp Python API](https://github.com/worldsoop/worldsoop) can be used to build and train decision-making algorithms in realistic simulation environments.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=worldsoop)](https://github.com/worldsoop/worldsoop)
+
 ## Environments
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=worldsoop&repo=trywizard)](https://github.com/worldsoop/trywizard)

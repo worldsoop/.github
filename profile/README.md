@@ -1,6 +1,6 @@
 ## Building more realistic environments for machine learning systems
 
-Welcome to the **WorldsOOp software ecosystem**! Our goal here is to create more realistic environments for machine learning systems to train on and test themselves against. The core motivations for (and design ideas behind) this software stack originate from this open source book: [Worlds Of Observation](https://umbralcalc.github.io/worlds-of-observation/).
+Welcome to the **WorldsOOp software ecosystem**! Our goal here is to create more realistic environments for machine learning systems to train on and test themselves against. The core motivations for (and design ideas behind) this software stack originate from this open source book: [Worlds of Observation](https://umbralcalc.github.io/worlds-of-observation/).
 
 _State observation is not easy._
 
